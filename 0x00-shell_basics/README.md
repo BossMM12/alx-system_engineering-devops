@@ -1,1 +1,1 @@
-Symbols
+script to write school
