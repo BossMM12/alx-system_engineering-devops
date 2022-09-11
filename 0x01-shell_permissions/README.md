@@ -1,1 +1,1 @@
-Money
+Made in Nigeria
