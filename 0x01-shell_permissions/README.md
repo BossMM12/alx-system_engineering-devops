@@ -1,1 +1,1 @@
-Create a user that switches user to betty
+Script that prints the current username
