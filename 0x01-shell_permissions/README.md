@@ -1,1 +1,1 @@
-scripts for different tasks
+script answers
