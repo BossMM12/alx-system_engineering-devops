@@ -1,1 +1,1 @@
-script that switch user
+Creating groups
