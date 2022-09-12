@@ -1,1 +1,1 @@
-script that prints
+Many script
